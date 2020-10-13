@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e7f4762dfbda24fe0a9d90caa595a26f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Rect1: {instanceID: 0}
+  - Rect2: {instanceID: 0}
+  - Rect3: {instanceID: 0}
+  - Rect4: {instanceID: 0}
+  - RectOutline1: {instanceID: 0}
+  - RectOutline2: {instanceID: 0}
+  - RectOutline3: {instanceID: 0}
+  - RectOutline4: {instanceID: 0}
+  - Check1: {instanceID: 0}
+  - Check2: {instanceID: 0}
+  - Check3: {instanceID: 0}
+  - Check4: {instanceID: 0}
+  - Cross1: {instanceID: 0}
+  - Cross2: {instanceID: 0}
+  - Cross3: {instanceID: 0}
+  - Cross4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
